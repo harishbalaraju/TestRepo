@@ -8,4 +8,8 @@ test
 
 
 chanmges:
+<<<<<<< HEAD
 int i=1;
+=======
+int i=132
+>>>>>>> dev_1.2.7
