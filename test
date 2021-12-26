@@ -8,4 +8,4 @@ test
 
 
 chanmges:
-i=1
+int i=12
